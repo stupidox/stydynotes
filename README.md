@@ -1,4 +1,6 @@
 # stydynotes
+git init
+
 修改用户名和邮箱：
 git config --global user.name “stupidox”
 git config --global user.email “email”
