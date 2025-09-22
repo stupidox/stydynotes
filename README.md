@@ -13,6 +13,8 @@ git config --global credential.helper store
 
 关联远程仓库： git remote add origin git@github.com:stupidox/xxx.git
 
+git branch -M master
+
 问题：
 fatal: detected dubious ownership in repository at 'E:/javaWorkspace/crawler'
 'E:/javaWorkspace/crawler' is owned by:
